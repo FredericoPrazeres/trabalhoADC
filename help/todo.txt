@@ -1,0 +1,7 @@
+Características do dataset
+ (average path length, numero de nos e etc)
+
+Nos e caminhos mais importantes, conceitos de centralidade e porque será que são esses nós que são mais acessados
+
+Estudo temporal do dataset (ultima coluna do paths_finished)
+
