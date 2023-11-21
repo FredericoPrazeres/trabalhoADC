@@ -1,0 +1,40 @@
+Quais os nós mais acessados nos caminhos? Porque será que são estes?
+
+1. Popular Paths or Routes
+Identify frequently taken paths between specific articles.
+Explore paths that have the most traffic or are considered efficient.
+
+2. Shortest Paths
+Analyze the shortest paths between articles.
+Investigate articles that are often starting or ending points for users.
+
+3. Centrality Measures
+Calculate centrality measures (e.g., degree centrality, betweenness centrality) to identify crucial articles in the network.
+
+4. User Behavior Analysis
+Study patterns in user behavior—do users tend to navigate between specific categories or types of articles more often?
+Explore how user paths might vary based on the type of content they're navigating (e.g., history, science, geography).
+
+5. Time Analysis
+Analyze timestamps (if available) to understand peak navigation times or patterns over time.
+Explore how navigation behavior changes during different periods (e.g., weekdays vs. weekends, morning vs. evening).
+
+6. Community Detection
+Apply community detection algorithms to identify clusters or groups of articles that are frequently visited together.
+Explore if there are thematic clusters based on user navigation.
+
+7. Navigation Biases
+Investigate biases in navigation: Are users more likely to jump to related articles or seemingly unrelated ones?
+Explore if there are any biases towards articles with certain characteristics (length, topic, etc.).
+
+8. Popular Articles or Hubs
+Identify articles that act as hubs connecting various other articles.
+Find articles that are frequently visited but might not necessarily be start or end points.
+
+9. Network Visualization
+Create visualizations of the navigation network to understand the structure and connections between articles.
+Use visualizations to highlight important nodes or clusters.
+
+10. Path Diversity
+Measure the diversity of paths taken by users.
+Analyze how users explore different paths to reach the same destination.
